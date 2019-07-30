@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="cn.com.za.module1">
+
+    <application>
+        <activity android:name=".ModuleMainActivity"></activity>
+    </application>
+
+</manifest>
